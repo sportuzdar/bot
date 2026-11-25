@@ -1,0 +1,18 @@
+{
+  "id": "example-disabled",
+  "name": "Disabled Example",
+  "country": "SK",
+  "tier": "green",
+  "adapter": "jsonld",
+  "startUrls": ["https://example.org/"],
+  "allowedHosts": ["example.org"],
+  "maxPages": 1,
+  "minDelayMs": 2000,
+  "termsUrl": "https://example.org/",
+  "termsCheckedAt": null,
+  "robotsCheckedAt": null,
+  "approvedBy": null,
+  "approvedAt": null,
+  "enabled": false,
+  "notes": "Synthetic registry example. Never fetched."
+}

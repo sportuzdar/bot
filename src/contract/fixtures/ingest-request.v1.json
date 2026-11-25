@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "source": { "id": "example", "name": "Synthetic Example" },
+  "fetchedAt": "2026-11-25T12:00:00.000Z",
+  "candidates": [
+    {
+      "kind": "event",
+      "externalKey": "synthetic-event-1",
+      "title": "Synthetic Community Run",
+      "startDate": "2027-05-15T08:00:00.000Z",
+      "endDate": null,
+      "city": "Bratislava",
+      "countryCode": "SK",
+      "venueName": null,
+      "organizerName": "Synthetic Sports Club",
+      "eventUrl": "https://example.org/events/1",
+      "registrationUrl": null,
+      "summary": null,
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}
